@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Live Demo
-Link: https://whatsapp-clone-974a6.web.app/rooms/MyzalQ1uOmcoEzV59PmA
+Link: https://whatsapp-clone-974a6.web.app/
 
 ### Reference
 Youtube: https://youtu.be/pUxrDcITyjg
